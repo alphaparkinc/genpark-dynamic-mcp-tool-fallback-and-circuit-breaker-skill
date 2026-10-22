@@ -1,0 +1,12 @@
+[project]
+name = "genpark-dynamic-mcp-tool-fallback-and-circuit-breaker-skill"
+version = "1.0.0"
+description = "Monitors MCP tool error rates and latencies, automatically tripping circuit breakers and routing requests to backup tools"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://www.genpark.ai"
+LinkedIn = "https://www.linkedin.com/company/92955550"
+LinkedInPage = "https://www.llinkedin.com/company/92955550"
